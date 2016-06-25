@@ -1,2 +1,2 @@
 # hello_world
-first shot
+first shot of cooperative programming
